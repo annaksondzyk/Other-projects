@@ -1,6 +1,6 @@
 
 
-### 1.Fitness_tracker_app_design
+### 1. Fitness_tracker_app_design
 #### [Power BI]
 A Power BI report created in a form of a fitness tracker app.
 
